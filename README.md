@@ -1,0 +1,1 @@
+Developed TechLearnHub using Django, featuring a user-friendly interface for browsing and shopping, secure payment integration, and an admin dashboard for efficient management of products, orders, and user data.
